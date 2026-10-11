@@ -22,10 +22,10 @@ internal class Program
     // FORGE_VERSION : 서버의 Forge 버전 번호 (예: 47.3.0)
     //                 ※ 모드 중 하나가 47.0.34 이상을 요구하므로 그보다 낮으면 안 됩니다.
     // ─────────────────────────────────────────────────────────
-    private const string GITHUB_USER = "내깃허브아이디";
-    private const string GITHUB_REPO = "저장소이름";
+    private const string GITHUB_USER = "dpffls";
+    private const string GITHUB_REPO = "L_Ender-s-Cataclysm";
     private const string RELEASE_TAG = "v1";
-    private const string FORGE_VERSION = "47.x.x";
+    private const string FORGE_VERSION = "47.4.26";
 
     // 마인크래프트 버전 (모드들이 전부 1.20.1용)
     private const string MC_VERSION = "1.20.1";
