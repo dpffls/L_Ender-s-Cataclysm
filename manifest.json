@@ -39,6 +39,24 @@
       "filename": "L_Enders_Cataclysm-3_31.jar",
       "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/L_Enders_Cataclysm-3_31.jar",
       "sha256": "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
+    },
+    {
+      "name": "Citadel",
+      "filename": "citadel-2.6.3-1.20.1.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/citadel-2.6.3-1.20.1.jar",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+    },
+    {
+      "name": "Curios API",
+      "filename": "curios-forge-5.14.1.1.20.1.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/curios-forge-5.14.1.1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+    },
+    {
+      "name": "Traveler's Backpack",
+      "filename": "travelersbackpack-forge-1.20.1-9.1.57.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/travelersbackpack-forge-1.20.1-9.1.57.jar",
+      "sha256": "d4a8c60bad3bf58f6020661809d97541df86e7e091daeda547a994dc5a8cfcf1"
     }
   ]
 }
