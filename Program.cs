@@ -98,7 +98,9 @@ internal class Program
         var psi = new ProcessStartInfo
         {
             FileName = "java",
-            Arguments = $"-jar \"{tempJar}\" --installClient",
+            // 설치 위치(.minecraft)를 직접 알려줘야 합니다. 안 알려주면 현재 폴더(.)에 설치하려다 실패해요.
+            Arguments = $"-jar \"{tempJar}\" --installClient \"{MinecraftDir}\"",
+            WorkingDirectory = MinecraftDir,
             UseShellExecute = false,
         };
 
