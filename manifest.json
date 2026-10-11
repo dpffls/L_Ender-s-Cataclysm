@@ -48,14 +48,14 @@
     },
     {
       "name": "Curios API",
-      "filename": "curios-forge-5.14.1.1.20.1.jar",
-      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/curios-forge-5.14.1.1.20.1.jar",
+      "filename": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/curios-forge-5.14.1%2B1.20.1.jar",
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
     },
     {
       "name": "Traveler's Backpack",
       "filename": "travelersbackpack-forge-1.20.1-9.1.57.jar",
-      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/travelersbackpack-forge-1.20.1-9.1.57.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/travelersbackpack-forge-1.20.1-9.1.57.2.jar",
       "sha256": "d4a8c60bad3bf58f6020661809d97541df86e7e091daeda547a994dc5a8cfcf1"
     }
   ]
