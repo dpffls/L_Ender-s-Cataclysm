@@ -1,0 +1,44 @@
+{
+  "modpack_name": "GyuminServer Modpack",
+  "minecraft_version": "1.20.1",
+  "forge_version": "47.4.26",
+  "forge_installer_url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/forge-installer.jar",
+  "mods": [
+    {
+      "name": "Just Enough Items (JEI)",
+      "filename": "jei-1.20.1-forge-15.62.0.219.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/jei-1.20.1-forge-15.62.0.219.jar",
+      "sha256": "e05b2427251d26fc6d15d7af65f918d0f00b4cc317ffa22e6d83c65d4ec8ead9"
+    },
+    {
+      "name": "Open Parties and Claims",
+      "filename": "open-parties-and-claims-forge-1.20.1-0.32.7.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/open-parties-and-claims-forge-1.20.1-0.32.7.jar",
+      "sha256": "e315edb21094281e1182697e6fbfbb380bbec424eaf1c3daa1c40d831221f2cb"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "filename": "xaerominimap-forge-1_20_1-26_6_0.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/xaerominimap-forge-1_20_1-26_6_0.jar",
+      "sha256": "9b39cd06094d7631c8614d172d0ba8399c71c981530af417f12a7909fcb855bd"
+    },
+    {
+      "name": "Xaero's World Map",
+      "filename": "xaeroworldmap-forge-1_20_1-1_47_0.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/xaeroworldmap-forge-1_20_1-1_47_0.jar",
+      "sha256": "88c6d844163c95a94d92bc6d87d9011cc840bd6207c3099a81b113d4450a3f6b"
+    },
+    {
+      "name": "Lionfish API",
+      "filename": "lionfishapi-3.0.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/lionfishapi-3.0.jar",
+      "sha256": "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
+    },
+    {
+      "name": "L_Ender's Cataclysm",
+      "filename": "L_Enders_Cataclysm-3_31.jar",
+      "url": "https://github.com/dpffls/L_Ender-s-Cataclysm/releases/download/mod/L_Enders_Cataclysm-3_31.jar",
+      "sha256": "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
+    }
+  ]
+}
